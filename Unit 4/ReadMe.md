@@ -1,6 +1,24 @@
-This is the ReadMe for Unit 4!
+## Required Reading
 
-# **Required** Reading
+### Woodward, Sadler and Robertson Book
+
+5.1.2 The AR(2) Model
+
+5.1.3 The AR(p) Model
+
+
+
+## Homework
+
+Chapter 5: Problems 2,3 and 4
+
+  
+  
+    
+
+## Very Useful Supplemental Reading  
+### This is the reading from the former text book (Woodward Gray Elliot)
+
 
 3.2.3
 
@@ -46,6 +64,3 @@ Example 3.14
 
 Example 3.15
 
-
-
-See you Tuesday!

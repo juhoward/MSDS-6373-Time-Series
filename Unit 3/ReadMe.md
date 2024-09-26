@@ -1,4 +1,21 @@
-**Required Reading for Unit 3**
+# Required Reading
+
+### Woodward, Sadler and Robertson Book
+
+4.3.1 Types of Filters
+
+4.3.2 The Butterworth Filter
+
+4.4 Concluding Remarks
+
+5.1.1 The AR(1) Model
+
+## Homework  
+Chapter 5: Problem 1
+
+# **Optional Reading Reading for Unit 3**
+
+### Woodward, Gray, Elliot
 
 2.1 (up to Thm 2.1)
 
